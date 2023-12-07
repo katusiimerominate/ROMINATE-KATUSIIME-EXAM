@@ -1,0 +1,51 @@
+body{
+    background-color: blue;
+    border: 2px solid 50px;
+    padding: 0%;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+    font-style: oblique;
+    font-size: medium;
+}
+
+
+.arrange{
+    justify-content: space-around;
+    justify-content: first baseline;
+    
+}
+
+
+
+
+
+
+
+
+
+p{
+ font-style: oblique;
+ color: blue;
+
+}
+div{
+    display: flex;
+    border:  solid 0 10px;
+
+}
+
+    
+
+
+
+button{
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+}
+.design{
+ justify-content: space-around;
+    
+}
